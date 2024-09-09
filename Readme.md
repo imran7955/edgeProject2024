@@ -1,0 +1,1 @@
+This is a project that analyzes and visualizes a car data file. It is done by using Python programming language along with some libraries such as Numpy, Pandas, Matplotlib, seaborn etc.
